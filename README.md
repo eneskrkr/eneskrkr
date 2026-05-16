@@ -80,7 +80,7 @@ Stok, kullanıcı, admin ve sepet sistemi içerir.
 
 **Durum**
 
-🟡 Bitme aşamasında
+🟢 Tamamlandı
 
 </div>
 
