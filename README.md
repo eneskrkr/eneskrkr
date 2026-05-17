@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Merhaba, ben Enes
+# 👋 Merhaba, ben Eneshttps://github.com/eneskrkr/eneskrkr/blob/main/README.md
 
 <b>Bilgisayar Programcılığı öğrencisiyim.</b><br>
 
@@ -73,14 +73,14 @@
 
 **Açıklama**
 
-Konsol tabanlı mağaza yönetim sistemi.  
-Stok, kullanıcı, admin ve sepet sistemi içerir.
+Konsol tabanlı basit kütüphane.  
+üyeler, kitaplar, giriş sistemi, ceza sistemi, ödünç sistemi vb.
 
 ━━━━━━━━━━━━━━━━━━
 
 **Durum**
 
-🟢 Tamamlandı
+🟡 geliştirme aşamasında
 
 </div>
 
@@ -104,7 +104,7 @@ Geliştirilmiş veritabanlı mağaza yönetim sistemi
 
 **Durum**
 
-🟡 Geliştirme aşamasında
+🟡 tasarım aşamasında
 
 </div>
 
