@@ -67,7 +67,7 @@
 
 <div align="center">
 
-# 🛒 Store Management System
+#  LİBRARY
 
 ━━━━━━━━━━━━━━━━━━
 
