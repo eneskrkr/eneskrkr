@@ -61,15 +61,7 @@
 </p>
 <h2 align="center">🚀 Geliştirdiğim Projeler</h2>
 <table>
-<tr>
 
-<td width="50%" valign="top">
-
-<div align="center">
-
-</div>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -90,6 +82,7 @@ Geliştirilmiş veritabanlı mağaza yönetim sistemi
 **Durum**
 
 🟡 tasarım aşamasında
+
 
 </div>
 
