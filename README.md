@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Merhaba, ben Eneshttps://github.com/eneskrkr/eneskrkr/blob/main/README.md
+# 👋 Merhaba, ben Enes
 
 <b>Bilgisayar Programcılığı öğrencisiyim.</b><br>
 
@@ -66,21 +66,6 @@
 <td width="50%" valign="top">
 
 <div align="center">
-
-#  LİBRARY
-
-━━━━━━━━━━━━━━━━━━
-
-**Açıklama**
-
-Konsol tabanlı basit kütüphane.  
-üyeler, kitaplar, giriş sistemi, ceza sistemi, ödünç sistemi vb.
-
-━━━━━━━━━━━━━━━━━━
-
-**Durum**
-
-🟡 geliştirme aşamasında
 
 </div>
 
